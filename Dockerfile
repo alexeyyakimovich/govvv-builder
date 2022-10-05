@@ -1,4 +1,4 @@
-FROM golang:1.18.0
+FROM golang:1.19.2
 LABEL author="Alexey Yakimovich"
 
 ARG VCS_REF
